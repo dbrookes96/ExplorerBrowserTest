@@ -1,0 +1,7 @@
+.vs
+*.exe
+*.dll
+*.pdb
+x64
+*.vcxproj.user
+*.aps
